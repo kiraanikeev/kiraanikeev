@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Kirill! 👨‍💻</h2>
 
-✍🏼  My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with Express.js, MongoDB.
+✍🏼  My specialization is creating SPA with React, TypeScript, JavaScript. I have experience in backend building with Express.js, MongoDB.
 
 👷🏼‍♂️  I enjoy learning new programming languages, frameworks and try to develop every day
 
@@ -10,7 +10,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="www.linkedin.com/in/kirill-anikeev-b7a967230"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/kirill-anikeev-b7a967230/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 <a href="https://t.me/kiraanikeev"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
