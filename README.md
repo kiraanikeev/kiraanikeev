@@ -34,12 +34,3 @@
   <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
-
-<h2 align="left">Links:</h2>
-
-<p align="left">
- <a href="https://kiraanikeev.github.io/resume/"><img src="https://img.shields.io/badge/-My%20resume%20-lightgrey" alt="resume" title="resume" /></a> 
-<a href="https://portfolio-anikeev-kirill.herokuapp.com/"><img src="https://img.shields.io/badge/-My%20portfolio-lightgrey" alt="resume" title="resume" /></a> 
-  </p>
-
-
